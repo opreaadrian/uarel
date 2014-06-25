@@ -1,0 +1,29 @@
+{
+  "name": "uarel",
+  "version": "0.0.1",
+  "description": "Lightweight URL manipulation library",
+  "main": "uarel.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opreaadrian/uarel"
+  },
+  "keywords": [
+    "url",
+    "manipulation"
+  ],
+  "author": "Adrian George Oprea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opreaadrian/uarel/issues"
+  },
+  "homepage": "https://github.com/opreaadrian/uarel",
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  }
+}
