@@ -1,3 +1,9 @@
+/**
+ * @license
+ * Copyright 2014 Adrian Oprea
+ * Available under MIT license <https://github.com/opreaadrian/uarel/blob/master/LICENSE>
+ */
+
 (function(exports) {
   'use strict';
 
